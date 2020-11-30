@@ -1,8 +1,15 @@
-### Hi there 👋, K. Dushyant Reddy
-#### Web App Developer and Design
-![Web App Developer and Design](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# Hi there 👋, K. Dushyant Reddy
+## Web App Developer and Design
 
 I'm Dushyant from India, and I do content on Development and Design. I enjoy learning languages like JAVA, C, C++, HTML, CSS, MYSQL and frameworks like Javascript, Nodejs, React, React Native as well as work in ui,ux design in XD.
+
+### Skills and Experience
+* ☕ JAVA
+* 🐬 MySQL
+* 💻 HTML, CSS, JS
+* ⚛ React
+* 📱 React Native
+* ❇️ Nodejs
 
 Skills: JAVA / MYSQL / REACT / NODE / JS / HTML / CSS
 
