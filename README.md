@@ -17,7 +17,7 @@ I'm Dushyant from India, and I do for(init = Learn, run >= Design, finalize = De
 
 
 ### Connect with me, via:
-[<img src='https://img.icons8.com/color/48/000000/github.png' alt='github' width="4%">](https://github.com/Dushyant029)     [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' width="4%">](https://www.linkedin.com/in/k-dushyant-reddy-060234165/)     [<img src='https://img.icons8.com/color/48/000000/instagram.png' alt='instagram' width="4%">](https://www.instagram.com/dushi_hrx/)     [<img src='https://img.icons8.com/color/48/000000/facebook.png' alt='facebook' width="4%">](https://www.facebook.com/Dushyant-Reddy/100005478945548)     [<img src='https://img.icons8.com/color/48/000000/website.png' alt='website' width="4%">](http://kdushyantreddy.me/)     <a href="mailto:dushireddy291@gmail.com">  <img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' width="4%"> </a>
+[<img src='https://img.icons8.com/color/48/000000/github.png' alt='github' width="4%">](https://github.com/Dushyant029)     [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' width="4%">](https://www.linkedin.com/in/k-dushyant-reddy-060234165/)     <a href="mailto:dushireddy291@gmail.com">  <img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' width="4%"> </a>     [<img src='https://img.icons8.com/color/48/000000/instagram.png' alt='instagram' width="4%">](https://www.instagram.com/dushi_hrx/)     [<img src='https://img.icons8.com/color/48/000000/facebook.png' alt='facebook' width="4%">](https://www.facebook.com/Dushyant-Reddy/100005478945548)     [<img src='https://img.icons8.com/color/48/000000/website.png' alt='website' width="4%">](http://kdushyantreddy.me/)     
 
 
 <details>
