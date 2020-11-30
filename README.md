@@ -16,8 +16,4 @@ I'm Dushyant from India, and I do content on Development and Design. I enjoy lea
 
 
 ### Connect with me, via:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='26px'>](https://github.com/Dushyant029)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='26px'>](https://www.linkedin.com/in/k-dushyant-reddy-060234165/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='26px'>](https://www.facebook.com/Dushyant-Reddy/100005478945548)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' width='26px'>](https://www.instagram.com/dushi_hrx/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='26px'>](http://kdushyantreddy.me/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='26px'>](https://github.com/Dushyant029)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='26px'>](https://www.linkedin.com/in/k-dushyant-reddy-060234165/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='26px'>](https://www.facebook.com/Dushyant-Reddy/100005478945548)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' width='26px'>](https://www.instagram.com/dushi_hrx/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='26px'>](http://kdushyantreddy.me/)
