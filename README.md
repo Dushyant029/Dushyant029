@@ -13,7 +13,23 @@ I'm Dushyant from India, and I do content on Development and Design. I enjoy lea
 * ⚛ React
 * 📱 React Native
 * ❇️ Nodejs
+* 🎨 XD
 
 
 ### Connect with me, via:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='26px'>](https://github.com/Dushyant029)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='26px'>](https://www.linkedin.com/in/k-dushyant-reddy-060234165/)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='26px'>](https://www.facebook.com/Dushyant-Reddy/100005478945548)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' width='26px'>](https://www.instagram.com/dushi_hrx/)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='26px'>](http://kdushyantreddy.me/)
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Dushyant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dushyant029&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Dushyant's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dushyant029" />
+
+</details>
