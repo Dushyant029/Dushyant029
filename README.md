@@ -37,9 +37,4 @@ I'm Dushyant from India, and I do content on Development and Design. I enjoy lea
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
-<br />
-<br />
----
-
-
 
