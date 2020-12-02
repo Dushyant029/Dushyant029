@@ -1,4 +1,4 @@
-# Hello World, I'm K. Dushyant Reddy 👋
+# Hello World, I'm  K. Dushyant Reddy 👋
 
  <img align="right" alt="GIF" src="https://github.com/Dushyant029/Dushyant029/blob/main/developer.gif?raw=true  " width="500" height="320" />
 
