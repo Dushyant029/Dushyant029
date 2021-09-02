@@ -1,4 +1,8 @@
-# Hello World, I'm  K. Dushyant Reddy 👋
+# Hello World, I'm  K. Dushyant Reddy![Heyy](https://user-images.githubusercontent.com/55031190/131804746-41aa7b9f-928e-4ee6-924f-c54516f02411.gif) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dushyant029.Dushyant029">
+
+
+
+
 
  <img align="right" alt="GIF" src="https://github.com/Dushyant029/Dushyant029/blob/main/developer.gif?raw=true  " width="500" height="320" />
 
