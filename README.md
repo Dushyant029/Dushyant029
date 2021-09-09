@@ -286,7 +286,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dushyant029&repo=CrackBag-Ecommerce" />
 </a>
 <a href="https://github.com/Dushyant029/DuTrackApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dushyant029&repo=DuTrackApp" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Dushyant029&repo=DuTrackApp" />
 </a>
 </span>
 
@@ -295,7 +295,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dushyant029&repo=Algo-Scheduler-App" />
 </a>
 <a href="https://github.com/Dushyant029/daveApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dushyant029&repo=daveApp" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Dushyant029&repo=daveApp" />
 </a>
 </span>
   
