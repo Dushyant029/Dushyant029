@@ -22,6 +22,7 @@
 <a href="https://www.facebook.com/people/K-Dushyant-Reddy/100005478945548/">
   <img align="left" alt="kdr's Facebook" width="100px" src="https://img.shields.io/badge/FACEBOOK-1877F2?style=flat&logo=Facebook&logoColor=white" />
 </a>
+<br><br>
 <a href="mailto:dushireddy291@gmail.com">
   <img align="center" alt="kdr's Mail" width="80px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
