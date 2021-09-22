@@ -10,6 +10,9 @@
 <a href="https://www.linkedin.com/in/k-dushyant-reddy-060234165">
   <img align="left" alt="kdr's Linkedin" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
+<a href="https://devfolio.co/@dushyant029">
+  <img align="left" alt="kdr's Devfolio" width="85px" src="https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=Devfolio&logoColor=white" />
+</a>
 <a href="https://github.com/dushyant029">
   <img align="left" alt="kdr's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
