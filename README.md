@@ -1,8 +1,8 @@
 # Hello World, I'm  K. Dushyant Reddy! <img src="https://user-images.githubusercontent.com/55031190/131804746-41aa7b9f-928e-4ee6-924f-c54516f02411.gif" width="45px"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dushyant029.Dushyant029">
 <br>
 
-<a href="https://www.hackerrank.com/Dushyant029" target="_blank">
-  <img align="left" alt="kdr's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
+<a href="https://www.hackerrank.com/Dushyant029">
+  <img  target="_blank" align="left" alt="kdr's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
 <a href="https://www.qwiklabs.com/public_profiles/2fddd119-2b63-4ef8-976d-e75280fcc4c1">
   <img align="left" alt="kdr's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
