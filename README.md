@@ -2,7 +2,7 @@
 <br>
 
 <a href="https://www.hackerrank.com/Dushyant029">
-  <img  target="_blank" align="left" alt="kdr's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
+  <img align="left" alt="kdr's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
 <a href="https://www.qwiklabs.com/public_profiles/2fddd119-2b63-4ef8-976d-e75280fcc4c1">
   <img align="left" alt="kdr's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
