@@ -41,6 +41,8 @@
   <br>
 
 <samp>I'm Dushyant from India, and I do for(init = Learn, run >= Design, finalize = Development++). I enjoy learning languages like JAVA, C, C++, HTML, CSS, MYSQL and frameworks like Javascript, Nodejs, React, React Native as well as work in ui,ux design in XD.
+  
+  🥇 2nd Runner Up @NITR [HACKODISHA](https://hackodisha.xyz)
 </div>
 
 
