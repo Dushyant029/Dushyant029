@@ -281,10 +281,11 @@
       
 <hr> 
 
-#  
+##  
 <h3><b><samp>📁 Check out my Repositories</samp></b></h3>
 
-#
+##
+  
   <br>
   
 <span>
@@ -316,10 +317,11 @@
   <br>
 <hr>
 
-#
-### 🎧 Spotify Playing
+##
+<h3><b><samp>🎧 Spotify Playing</samp></b></h3>
 
-#
+##
+  
   <br>
   
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
@@ -329,11 +331,12 @@
 <br>
  <hr>
 
-#  
-### 📊 Github Stats
+##
+<h3><b><samp>📊 Github Stats</samp></b></h3>
 
-#
-  <br>
+##
+  
+  <br>  
     
 <p align="center">
   <a href="https://github.com/Dushyant029">
@@ -347,12 +350,13 @@
 </p>
   
 <br>
- 
-#  
-### 🏆 GitHub Profile Trophy
 
-#
-  <br>
+##
+<h3><b><samp>🏆 GitHub Profile Trophy</samp></b></h3>
+
+##
+  
+  <br>  
   
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -360,11 +364,12 @@
 </a>
 </p>
 
-#
-### 📈 GitHub Activity
+##
+<h3><b><samp>📈 GitHub Activity</samp></b></h3>
 
-#
-  <br>
+##
+  
+  <br> 
   
 <a href="https://github.com/Dushyant029/github-readme-activity-graph"><img alt="Dushyant's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dushyant029&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
@@ -376,10 +381,12 @@
 
 <hr>
   
-#  
-### 🤡 Joke of the Day
+##
+<h3><b><samp>🤡 Joke of the Day</samp></b></h3>
 
-#  
+##
+  
+  <br>
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
