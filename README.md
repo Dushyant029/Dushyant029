@@ -31,10 +31,10 @@
 ![Header](https://github.com/Dushyant029/Dushyant029/blob/main/headbac.gif?raw=true)
 
 
-##
+#
 <p align="center"><h4 align="center"><samp> Learner📝 && Design🎨 && Developer👨‍💻 </samp></h4></p>
 
-##
+#
 
 <div>
 <img align="right" src="https://github.com/Dushyant029/Dushyant029/blob/main/developer.gif?raw=true" width="40%"/>
