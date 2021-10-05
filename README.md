@@ -32,7 +32,7 @@
 
 
 #
-<p align="center"><h4 align="center"><samp> Learner📝 && Design🎨 && Developer👨‍💻 </samp></h4></p>
+<p align="center"><h4 align="center"><samp>Learner📝 && Design🎨 && Developer👨‍💻</samp></h4></p>
 
 #
 
