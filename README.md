@@ -37,7 +37,7 @@
 #
 
 <div>
-<img align="right" src="https://github.com/Dushyant029/Dushyant029/blob/main/developer.gif?raw=true" width="40%"/>
+<img align="right" src="https://github.com/Dushyant029/Dushyant029/blob/main/developer.gif?raw=true" width="40%" alt="gif"/>
   <br>
 
 <samp>I'm Dushyant from India, and I do for(init = Learn, run >= Design, finalize = Development++). I enjoy learning languages like JAVA, C, C++, HTML, CSS, MYSQL and frameworks like Javascript, Nodejs, React, React Native as well as work in ui,ux design in XD.
