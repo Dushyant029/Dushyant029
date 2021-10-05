@@ -56,37 +56,37 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/JAVA-013243?style=flat-square&logo=Java&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/JAVA-013243?style=flat-square&logo=Java&logoColor=white" alt="Java*"/>
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/java-icon.svg" width="48px" height="48px" alt="Java" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/mysql-official.svg" width="48px" height="48px" alt="MySQL" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="Html5" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="Html*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/html5.svg" width="48px" height="48px" alt="Html5" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="Css3" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="Css3*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/css3.svg" width="48px" height="48px" alt="Css3" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff&style=flat-square" alt="SaSS" />
+      <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff&style=flat-square" alt="SaSS*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/sass-lang-icon.svg" width="48px" height="48px" alt="SaSS" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white" alt="C*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/c-logo-672525892C-seeklogo.com.png" width="48px" height="48px" alt="C" />      
@@ -94,37 +94,37 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/css3.svg" width="48px" height="48px" alt="C++" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&style=flat-square" alt="JavaScript />
+      <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&style=flat-square" alt="JavaScript*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/js.svg" width="48px" height="48px" alt="JavaScript" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=ffffff&style=flat-square" alt="React" />
+      <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=ffffff&style=flat-square" alt="React*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/react-original.svg" width="48px" height="48px" alt="React" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=ffffff&style=flat-square" alt="NextJS" />
+      <img src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=ffffff&style=flat-square" alt="NextJS*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/next-js-logo-7929BCD36F-seeklogo.com.png" width="48px" height="48px" alt="NextJS" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=graphql&logoColor=ffffff&style=flat-square" alt="GraphQL" />
+      <img src="https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=graphql&logoColor=ffffff&style=flat-square" alt="GraphQL*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/graphql-icon.svg" width="48px" height="48px" alt="GraphQL" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&style=flat-square" alt="Git" />
+      <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&style=flat-square" alt="Git*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/git-scm-icon.svg" width="48px" height="48px" alt="Git" />      
@@ -160,49 +160,49 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"  alt="GCP"/>
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"  alt="GCP*"/>
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/google_cloud-icon.svg" width="48px" height="48px" alt="GCP" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=flat-square&logo=Qwiklabs&logoColor=800000" alt="Qwiklabs" />
+      <img src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=flat-square&logo=Qwiklabs&logoColor=800000" alt="Qwiklabs*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/logo%20qwiklabs%20icon.png" width="48px" height="48px" alt="Qwiklabs" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="Github" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="Github*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/github-icon.svg" width="48px" height="48px" alt="Github" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&style=flat-square" alt="Gitlab" />
+      <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&style=flat-square" alt="Gitlab*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/gitlab-icon.svg" width="48px" height="48px" alt="Gitlab" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/bootstrap-plain.svg" width="48px" height="48px" alt="Bootstrap" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff&style=flat-square" alt="Tailwind Css" />
+      <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff&style=flat-square" alt="Tailwind Css*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/tailwindcss-icon.svg" width="48px" height="48px" alt="Tailwind Css" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-Material%E2%80%93UI-0081CB?style=flat-square&logo=material-ui&style=flat-square" alt="Material UI" />
+      <img src="https://img.shields.io/badge/-Material%E2%80%93UI-0081CB?style=flat-square&logo=material-ui&style=flat-square" alt="Material UI*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/material-ui.png" width="48px" height="48px" alt="Material UI" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff&style=flat-square" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff&style=flat-square" alt="NodeJS*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/nodejs-icon.svg" width="48px" height="48px" alt="NodeJS" />      
@@ -210,49 +210,49 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-Mongodb-339933?style=flat-square&logo=mongodb&logoColor=ffffff&style=flat-square" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/-Mongodb-339933?style=flat-square&logo=mongodb&logoColor=ffffff&style=flat-square" alt="MongoDB*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/mongodb-icon.svg" width="48px" height="48px" alt="MongoDB" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" alt="Postman*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/getpostman-icon.svg" width="48px" height="48px" alt="Postman" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&style=flat-square" alt="NPM" />
+      <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&style=flat-square" alt="NPM*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/npmjs-icon.svg" width="48px" height="48px" alt="NPM" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100" alt="Firebase*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/firebase-icon.svg" width="48px" height="48px" alt="Firebase" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white" alt="Heroku" />
+      <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white" alt="Heroku*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/heroku-icon.svg" width="48px" height="48px" alt="Heroku" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" alt="VS Code*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/visualstudio_code-icon.svg" width="48px" height="48px" alt="VS Code" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-Adobe%20XD-E434AA?style=flat-square&logo=Adobexd&logoColor=ffffff&style=flat-square" alt="Adobe XD" />
+      <img src="https://img.shields.io/badge/-Adobe%20XD-E434AA?style=flat-square&logo=Adobexd&logoColor=ffffff&style=flat-square" alt="Adobe XD*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/adobe-xd.svg" width="48px" height="48px" alt="Adobe XD" />      
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black" alt="Hackerrank" />
+      <img src="https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black" alt="Hackerrank*" />
       <br>
       <br>
       <img src="https://github.com/Dushyant029/Dushyant029/blob/main/images/hackerrank.svg" width="48px" height="48px" alt="Hackerrank" />      
