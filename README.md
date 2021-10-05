@@ -342,7 +342,7 @@
   <a href="https://github.com/Dushyant029">
     <span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Dushyant029&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" alt="kdr's stats" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dushyant029&theme=radical" alt="kdr's streak"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dushyant029&theme=radical" alt="kdr's streak"/>
     <img height="250rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dushyant029&layout=compact&langs_count=8&theme=radical" alt="kdr's langs"/>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dushyant029&theme=dracula" alt="kdr's wave"/>
     </span>
