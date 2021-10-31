@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/dushi_hrx/">
   <img align="left" alt="kdr's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<br><br><br><br>
+<br><br><br>
 <a href="https://www.facebook.com/people/K-Dushyant-Reddy/100005478945548/">
   <img align="left" alt="kdr's Facebook" width="100px" src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
 </a>
