@@ -19,7 +19,9 @@
 <a href="https://www.instagram.com/dushi_hrx/">
   <img align="left" alt="kdr's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<br><br>
+<a href="https://github.com/dushyant029">
+  <img align="left" alt="kdr's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
 <a href="https://www.facebook.com/people/K-Dushyant-Reddy/100005478945548/">
   <img align="left" alt="kdr's Facebook" width="100px" src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
 </a>
